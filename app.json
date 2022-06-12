@@ -1,0 +1,7 @@
+{
+  "name": "tubrowarp-cloud-heroku",
+  "description": "Build a scratch cloud variable on heroku",
+  "website": "https://github.com/LoserFox/",
+  "repository": "https://github.com/LoserFox/tubrowarp-cloud-heroku",
+  "stack": "container"
+}
